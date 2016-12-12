@@ -33,9 +33,15 @@ Codewars                    | [Codewars] (https://github.com/adrianeyre/codewars
 
 ## <a name="Experience">Experience</a>
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+[All Saints Catholic Academy] (http://www.allsaints.notts.sch.uk) (July 2011 to December 2016)    
+IT Manager
+
+[The Carlton Academy] (http://www.theacademycarlton.org.uk/) (January 2002 to July 2011)   
+Network Manager
 
 ## <a name="interests">Interests</a>
+
+
+## <a name="contact">Contact Information</a>
+Email: <a href="mailto:adrian.eyre@hotmail.co.uk">Adrian.Eyre@Hotmail.co.uk</a>
+Linkedin: [Adrian Eyre] (https://uk.linkedin.com/in/adrian-eyre-92b78390)
