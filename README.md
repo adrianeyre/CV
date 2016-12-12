@@ -1,6 +1,6 @@
 ## Adrian Eyre
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -41,7 +41,3 @@ Network Manager
 
 ## <a name="interests">Interests</a>
 
-
-## <a name="contact">Contact Information</a>
-Email: <a href="mailto:adrian.eyre@hotmail.co.uk">Adrian.Eyre@Hotmail.co.uk</a><br>
-Linkedin: [Adrian Eyre] (https://uk.linkedin.com/in/adrian-eyre-92b78390)
