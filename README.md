@@ -8,7 +8,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 
 ## <a name="projects">Projects</a>
-
+Project title               | Github Repository  								
+--------------------------- | ------------------------------
+Makers Academy Pre-Course   | [Pre-Course] (https://github.com/adrianeyre/pre-course)
+Codewars                    | [Codewars] (https://github.com/adrianeyre/codewars)
 
 ## <a name="education">Education</a>
 
