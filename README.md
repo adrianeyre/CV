@@ -11,7 +11,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 Project title               | Github Repository  						 | Details		
 --------------------------- | ------------------------------ | ------------------------
 Makers Academy Pre-Course   | [Pre-Course] (https://github.com/adrianeyre/pre-course) | Makers Acadent Pre-Course Materials
-Codewars                    | [Codewars] (https://github.com/adrianeyre/codewars)     | Codewar examples done in Ruby
+Codewars                    | [Codewars] (https://github.com/adrianeyre/codewars)     | Codewars examples done in Ruby
 FizzBuzz                    | [FizzBuzz] (https://github.com/adrianeyre/fizzbuzz)     | Paired programming example
 
 ## <a name="education">Education</a>
