@@ -32,6 +32,7 @@ FizzBuzz                    | [FizzBuzz] (https://github.com/adrianeyre/fizzbuzz
 
 #### Other Qualifications
 
+- Oracle Database 11g Administrator Certified Associate
 - Full First Aid certificate
 - Duke of Edinburgh Bronze to Gold Award
 - Qualified Duke of Edinburgh Bronze and Silver InstructorFull
@@ -48,19 +49,25 @@ I am a fully integrated member of staff within the school and enjoy the fast pac
 
 - Managing the whole school network infrastructure.
 - Managing a small team and department budget.
-- Installation, maintenance and administration of the below technologies
 - Microsoft Server 2003, 2008 & 2012r2 Domain
 - Microsoft Exchange 2007, 2010 & 2013 email system
 - Microsoft SQL 2013 Server
+- ASP, VB Script, HTML, IIS incorporating databases
 - Oracle SQL
 - Unitrends backup and disaster recovery system
 - Milestone IP CCTV Cameras system
 - IP telephone system
 - Symantec Endpoint Protection
+- Cisco switch configuration
+- Microsoft Office, Adobe WebSuite and Serif Suite support
+- Microsoft MDT Deployment Server
 - Creation and maintenance of school IT polices
 
 [The Carlton Academy] (http://www.theacademycarlton.org.uk/) (January 2002 to July 2011)   
 Position held: Network Manager
+
+[PC Service Call - Dixons Group] (http://www.pcworld.co.uk) (October 2001 to January 2002)
+Position held: Technical Support
 
 ## <a name="interests">Interests</a>
 
