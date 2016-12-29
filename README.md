@@ -66,7 +66,7 @@ I am a fully integrated member of staff within the school and enjoy the fast pac
 [The Carlton Academy] (http://www.theacademycarlton.org.uk/) (January 2002 to July 2011)   
 Position held: Network Manager
 
-[PC Service Call - Dixons Group] (http://www.pcworld.co.uk) (October 2001 to January 2002)
+[PC Service Call - Dixons Group] (http://www.pcworld.co.uk) (October 2001 to January 2002)<br>
 Position held: Technical Support
 
 ## <a name="interests">Interests</a>
