@@ -2,10 +2,11 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Highly efficient Network Administrator with over 12 years experience in an educational environment. Experience with all Windows Server technologies, Windows operating systems, application and hardware support. Working knowledge of Windows SQL server and Oracle databases. 
+
+A good all-rounder with excellent interpersonal skills, committed to my role and consistently striving to develop myself. With self-confidence and motivation I am able to work on my own or as part of a team
 
 ## <a name="skills">Skills</a>
-
 
 ## <a name="projects">Projects</a>
 Project title               | Github Repository  						 | Details		
