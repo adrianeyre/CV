@@ -26,7 +26,7 @@ FizzBuzz                    | [FizzBuzz] (https://github.com/adrianeyre/fizzbuzz
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### University of Derby (start_date to end_date)
+#### University of Derby (October 1998 to June 2001)
 
 - HND Computer Studies
 - Passed all modules apart from common skills
