@@ -27,10 +27,17 @@ FizzBuzz                    | [FizzBuzz] (https://github.com/adrianeyre/fizzbuzz
 
 #### University of Derby (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- HND Computer Studies
+- Passed all modules apart from common skills
 
+#### Other Qualifications
+
+- Full First Aid certificate
+- Duke of Edinburgh Bronze to Gold Award
+- Qualified Duke of Edinburgh Bronze and Silver InstructorFull
+- Clean driving license including D1 minibus
+- SSI Open water scuba diver
+- RYA Powerboat Driver
 
 ## <a name="Experience">Experience</a>
 
@@ -57,3 +64,4 @@ Position held: Network Manager
 
 ## <a name="interests">Interests</a>
 
+On a regularly basis I wakeboard, snowboard, mountain bike and scuba dive. All of these activities have helped me develop confidence, team work, self-awareness, motivation and mental and physical agility.
