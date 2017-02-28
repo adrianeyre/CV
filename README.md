@@ -6,14 +6,14 @@ Highly efficient Network Administrator with over 12 years experience in an educa
 
 A good all-rounder with excellent interpersonal skills, committed to my role and consistently striving to develop myself. With self-confidence and motivation I am able to work on my own or as part of a team
 
-## <a name="skills">Skills</a>
+## :book: <a name="skills">Skills</a>
 
 ## <a name="projects">Projects</a>
-Project title               | Github Repository  						 | Details		
---------------------------- | ------------------------------ | ------------------------
-Makers Academy Pre-Course   | [Pre-Course] (https://github.com/adrianeyre/pre-course) | Makers Acadent Pre-Course Materials
-Codewars                    | [Codewars] (https://github.com/adrianeyre/codewars)     | Codewars examples done in Ruby
-FizzBuzz                    | [FizzBuzz] (https://github.com/adrianeyre/fizzbuzz)     | Paired programming example
+Project title                    | Github Repository  						 | Details		
+-------------------------------- | ------------------------------ | ------------------------
+Makers Academy Course Projects   | [Pre-Course] (https://github.com/adrianeyre/pre-course) | Makers Academy Projects
+Authored Codewars Katas          | [Codewars] (https://www.codewars.com/users/adrian.eyre/authored)     | Codewars examples done in Ruby
+FizzBuzz                         | [FizzBuzz] (https://github.com/adrianeyre/fizzbuzz)     | Paired programming example
 
 ## <a name="education">Education</a>
 
