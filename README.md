@@ -70,6 +70,6 @@ Position held: Network Manager
 [PC Service Call - Dixons Group] (http://www.pcworld.co.uk) (October 2001 to January 2002)<br>
 Position held: Technical Support
 
-## <a name="interests">Interests</a>
+## :snowboarder: <a name="interests">Interests</a>
 
 On a regularly basis I wakeboard, snowboard, mountain bike and scuba dive. All of these activities have helped me develop confidence, team work, self-awareness, motivation and mental and physical agility.
