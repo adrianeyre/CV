@@ -9,11 +9,11 @@ A good all-rounder with excellent interpersonal skills, committed to my role and
 ## :book: <a name="skills">Skills</a>
 
 ## <a name="projects">Projects</a>
-Project title                    | Github Repository  						 | Details		
+Project title                    | Description 						 | Technologies		
 -------------------------------- | ------------------------------ | ------------------------
-Makers Academy Course Projects   | [Pre-Course] (https://github.com/adrianeyre/pre-course) | Makers Academy Projects
-Authored Codewars Katas          | [Codewars] (https://www.codewars.com/users/adrian.eyre/authored)     | Codewars examples done in Ruby, Javascript and Python
-FizzBuzz                         | [FizzBuzz] (https://github.com/adrianeyre/fizzbuzz)     | Paired programming example
+[Makers Academy Course Projects] (https://github.com/adrianeyre/pre-course)  | Projects completed in the 12 week intense course | Ruby, Javascript, Rspec, Capybara, Jasmine, Rails
+[Authored Codewars Katas] (https://www.codewars.com/users/adrian.eyre/authored) | Codewar kats that I have authored    | Ruby, Javascript and Python
+[Instagram Clone](https://github.com/adrianeyre/instagram-challenge)               | A web clone of instagram. Allows users to post and comment on images.      | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL
 
 ## <a name="education">Education</a>
 
