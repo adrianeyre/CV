@@ -12,7 +12,7 @@ A good all-rounder with excellent interpersonal skills, committed to my role and
 Project title                    | Github Repository  						 | Details		
 -------------------------------- | ------------------------------ | ------------------------
 Makers Academy Course Projects   | [Pre-Course] (https://github.com/adrianeyre/pre-course) | Makers Academy Projects
-Authored Codewars Katas          | [Codewars] (https://www.codewars.com/users/adrian.eyre/authored)     | Codewars examples done in Ruby
+Authored Codewars Katas          | [Codewars] (https://www.codewars.com/users/adrian.eyre/authored)     | Codewars examples done in Ruby, Javascript and Python
 FizzBuzz                         | [FizzBuzz] (https://github.com/adrianeyre/fizzbuzz)     | Paired programming example
 
 ## <a name="education">Education</a>
