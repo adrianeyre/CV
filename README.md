@@ -15,7 +15,7 @@ Project title                    | Description 						 | Technologies
 [Authored Codewars Katas] (https://www.codewars.com/users/adrian.eyre/authored) | Codewar kats that I have authored    | Ruby, Javascript and Python
 [Instagram Clone](https://github.com/adrianeyre/instagram-challenge)               | A web clone of instagram. Allows users to post and comment on images.      | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL
 
-:mortar_board: ## <a name="education">Education</a>
+## :mortar_board: <a name="education">Education</a>
 
 #### Makers Academy (January 2017 - March 2017)
 
@@ -41,7 +41,7 @@ Project title                    | Description 						 | Technologies
 - SSI Open water scuba diver
 - RYA Powerboat Driver
 
-## <a name="Experience">Experience</a>
+## :school: <a name="Experience">Experience</a>
 
 [All Saints Catholic Academy] (http://www.allsaints.notts.sch.uk) (July 2011 to December 2016)    
 Position held: IT Manager
