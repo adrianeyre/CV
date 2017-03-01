@@ -51,7 +51,7 @@ Project title                    | Description 						 | Technologies
 - SSI Open water scuba diver
 - RYA Powerboat Driver
 
-## :school: <a name="Experience">Experience</a>
+## :school: <a name="experience">Experience</a>
 
 [All Saints Catholic Academy] (http://www.allsaints.notts.sch.uk) (July 2011 to December 2016)    
 Position held: IT Manager
