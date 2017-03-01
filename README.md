@@ -2,11 +2,21 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-Highly efficient Network Administrator with over 12 years experience in an educational environment. Experience with all Windows Server technologies, Windows operating systems, application and hardware support. Working knowledge of Windows SQL server and Oracle databases. 
+I have always had a passion for software development from an early age, the excitement of creating something drives me to progress myself and overcome new challenges. I have worked in the computer sector for over 13 years as a systems administrator, which I’ve enjoyed but now I’m looking for new experiences that will push me further.
 
-A good all-rounder with excellent interpersonal skills, committed to my role and consistently striving to develop myself. With self-confidence and motivation I am able to work on my own or as part of a team
+Having graduated Makers Academy, an intensive 16-week coding bootcamp focused primarily on Ruby and Javascript, I am excited by the prospect of joining a company where I can make a real difference as a junior developer.
+
+During my time at Makers Academy I learned how to think like a programmer, write clean test-driven code, and the ability to learn new languages and technologies efficiently in a short period of time. As such, I am extremely comfortable when it comes to test-driven development, agile methodologies and XP values.
 
 ## :book: <a name="skills">Skills</a>
+
+### Fast Learner
+The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career. During the Makers Academy course we learnt several technologies and frameworks in a short space of time. This meant that I had to adapt quickly soaking up each aspect.
+
+### Working Under Pressure
+During my previous employment I often found myself in high pressure situations. My measured and calm approach enabled me to handle testing situations in an organised and methodical manner ensuring that all systems we’re working to their optimal performance.
+
+
 
 ## :computer: <a name="projects">Projects</a>
 Project title                    | Description 						 | Technologies		
