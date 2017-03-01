@@ -16,8 +16,6 @@ The ability to take a pragmatic and considered approach to problem-solving has e
 ### Working Under Pressure
 During my previous employment I often found myself in high pressure situations. My measured and calm approach enabled me to handle testing situations in an organised and methodical manner ensuring that all systems we’re working to their optimal performance.
 
-
-
 ## :computer: <a name="projects">Projects</a>
 Project title                    | Description 						 | Technologies		
 -------------------------------- | ------------------------------ | ------------------------
