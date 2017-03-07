@@ -50,8 +50,8 @@ Project title                    | Description 						 | Technologies
 - Oracle Database 11g Administrator Certified Associate
 - Full First Aid certificate
 - Duke of Edinburgh Bronze to Gold Award
-- Qualified Duke of Edinburgh Bronze and Silver InstructorFull
-- Clean driving license including D1 minibus
+- Qualified Duke of Edinburgh Bronze and Silver Instructor
+- Full Clean driving license including D1 minibus
 - SSI Open water scuba diver
 - RYA Powerboat Driver
 
@@ -86,4 +86,4 @@ Position held: Technical Support
 
 ## :snowboarder: <a name="interests">Interests</a>
 
-On a regularly basis I wakeboard, snowboard, mountain bike and scuba dive. All of these activities have helped me develop confidence, team work, self-awareness, motivation and mental and physical agility.
+On a regularly basis I wakeboard, snowboard, mountain bike and scuba dive. All of these activities have helped me develop confidence, teamwork, self-awareness, motivation and mental and physical agility.
