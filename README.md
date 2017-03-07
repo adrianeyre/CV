@@ -20,7 +20,7 @@ During my previous employment I often found myself in high pressure situations. 
 In my previous roles I have worked with a wide range people including teaching children not only computer skills but PSHE. It gave me the confidence to teach in front of a class of 30 and to a whole year assembly. I believe communication is key to a successful working relationship whether it's explaining a tricky technical concept to somebody, giving a presentation, asking for assistance or even just providing an update on the current status of a project I'm working on. I pride myself on my ability on to adjust my approach depending on the target audience and prevent any miscommunication from occurring.
 
 ### Critical Reasoning and Problem Solving
-
+I have a proven record of problem solving through my 13 years as a Systems Administrator. Systems were vital for the staff and students to perform to their best which meant that the system needed to be reliable and robust. Maintenance was key to reduce problems but a rapid response was needed to fix anything unforeseen, which meant that I had to be a quick thinker and needed the skill of finding the correct solution in a stressful timeframe.
 
 ## :computer: <a name="projects">Projects</a>
 Project title                    | Description 						 | Technologies		
