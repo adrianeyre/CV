@@ -16,6 +16,12 @@ The ability to take a pragmatic and considered approach to problem-solving has e
 ### Working Under Pressure
 During my previous employment I often found myself in high pressure situations. My measured and calm approach enabled me to handle testing situations in an organised and methodical manner ensuring that all systems we’re working to their optimal performance.
 
+### Communication
+In my previous roles I have worked with a wide range people including teaching children not only computer skills but PSHE. It gave me the confidence to teach in front of a class of 30 and to a whole year assembly. I believe communication is key to a successful working relationship whether it's explaining a tricky technical concept to somebody, giving a presentation, asking for assistance or even just providing an update on the current status of a project I'm working on. I pride myself on my ability on to adjust my approach depending on the target audience and prevent any miscommunication from occurring.
+
+### Critical Reasoning and Problem Solving
+
+
 ## :computer: <a name="projects">Projects</a>
 Project title                    | Description 						 | Technologies		
 -------------------------------- | ------------------------------ | ------------------------
