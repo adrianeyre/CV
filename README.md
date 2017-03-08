@@ -39,6 +39,7 @@ Project title | Description | Demo Link	| Technologies
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD, MVC
+- AWS and Facebook integration with omniauth
 - Software Craftsmanship
 - Ruby, Rails, Python, Javascript, Node.js
 - Rspec, Capybara, Jasmine
