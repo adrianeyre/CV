@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I have always had a passion for software development from an early age, the excitement of creating something drives me to progress myself and overcome new challenges. I have worked in the computer sector for over 13 years as a systems administrator, which I’ve enjoyed but now I’m looking for new experiences that will push me further.
+From an early age, I've always had a passion for software development. My motivation to progress myself and overcome new challenges is drawn from the excitement of creating something. I've enjoyed working in the computer sector for over 13 years as a systems administrator, but I'm now looking for new experiences that will push me further.
 
 Having graduated Makers Academy, an intensive 16-week coding bootcamp focused primarily on Ruby and Javascript, I am excited by the prospect of joining a company where I can make a real difference as a junior developer.
 
