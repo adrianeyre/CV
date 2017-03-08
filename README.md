@@ -28,6 +28,8 @@ Project title                    | Description 						 | Technologies
 [Makers Academy Course Projects] (https://github.com/adrianeyre/main-course)  | Projects completed in the 12 week intense course | Ruby, Javascript, Rspec, Capybara, Jasmine, Rails
 [Authored Codewars Katas] (https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored    | Ruby, Javascript and Python
 [Instagram Clone](https://github.com/adrianeyre/instagram-challenge)               | A web clone of instagram. Allows users to post and comment on images.      | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL
+[Bowling] (https://github.com/adrianeyre/bowling-challenge) | A web front end bowling game | Javascript, Jasmine, JQuery
+[Chitter] (https://github.com/adrianeyre/chitter-challenge) | A remake of Twitter | Ruby, Rspec, Capybara, Sinatra
 
 ## :mortar_board: <a name="education">Education</a>
 
