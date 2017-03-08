@@ -87,7 +87,7 @@ I am a fully integrated member of staff within the school and enjoy the fast pac
 [Nottinghamshire Police] (https://www.nottinghamshire.police.uk/) (February 2009 to Present)<br>
 Position held: <b>Special Police Inspector</b>
 
-I perform a wide variety of duties such as enforcement of laws and the prevention of crimes, controls traffic flow and enforces state and local traffic regulations, participates in and conducts a variety of criminal investigations, arrests, support and assistance to special crime prevention and law enforcement programs and a variety of technical and administrative tasks in support of law enforcement services and activities. 
+I perform a wide variety of duties such as enforcement of laws and the prevention of crimes, controls traffic flow and enforces state and local traffic regulations, participate in and conducts a variety of criminal investigations, arrests, support and assistance to special crime prevention and law enforcement programs and a variety of technical and administrative tasks in support of law enforcement services and activities. 
 
 [The Carlton Academy] (http://www.theacademycarlton.org.uk/) (January 2002 to July 2011)   
 Position held: <b>Network Manager</b>
