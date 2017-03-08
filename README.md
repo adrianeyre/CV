@@ -14,13 +14,13 @@ During my time at Makers Academy I learned how to think like a programmer, write
 The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career. During the Makers Academy course we learnt several technologies and frameworks in a short space of time. This meant that I had to adapt quickly soaking up each aspect.
 
 ### Working Under Pressure
-During my previous employment I often found myself in high pressure situations. My measured and calm approach enabled me to handle testing situations in an organised and methodical manner ensuring that all systems we’re working to their optimal performance.
+During my previous employment I often found myself in high pressure situations. My measured and calm approach has enabled me to handle testing situations in an organised and methodical manner ensuring that all systems we’re working to their optimal performance.
 
 ### Communication
-In my previous roles I have worked with a wide range people including teaching children not only computer skills but PSHE. It gave me the confidence to teach in front of a class of 30 and to a whole year assembly. I believe communication is key to a successful working relationship whether it's explaining a tricky technical concept to somebody, giving a presentation, asking for assistance or even just providing an update on the current status of a project I'm working on. I pride myself on my ability on to adjust my approach depending on the target audience and prevent any miscommunication from occurring.
+Working with a wide range of people in my previous roles, including teaching children computer skills as well as PSHE, has given me the confidence to teach classes of 30 students and entire year assemblies. I believe communication is key to a successful working relationship whether it's explaining a tricky technical concept to somebody, giving a presentation, asking for assistance or even just providing an update on the current status of a project. I pride myself on my ability to tailor my approach to the target audience and preventing any miscommunication from occurring.
 
 ### Critical Reasoning and Problem Solving
-I have a proven record of problem solving through my 13 years as a Systems Administrator. Systems were vital for the staff and students to perform to their best which meant that the system needed to be reliable and robust. Maintenance was key to reduce problems but a rapid response was needed to fix anything unforeseen, which meant that I had to be a quick thinker and needed the skill of finding the correct solution in a stressful timeframe.
+I have a proven record of problem solving through my 13 years as a Systems Administrator. Systems were vital for the staff and students to perform to their best which meant that the system needed to be reliable and robust. Maintenance is key in reducing problems but an ability to provide a rapid response to any unforeseen events means that I've learnt to think quickly and calmly, finding the correct solution despite often stressful circumstances.
 
 ## :computer: <a name="projects">Projects</a>
 Project title | Description | Demo Link	| Technologies		
