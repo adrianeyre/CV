@@ -25,12 +25,12 @@ I have a proven record of problem solving through my 13 years as a Systems Admin
 ## :computer: <a name="projects">Projects</a>
 Project title | Description | Demo Link	| Technologies		
 --- | --- | --- | ---
-[Makers Academy Course Projects] (https://github.com/adrianeyre/main-course)  | Projects completed in the 12 week intense course | t | Ruby, Javascript, Rspec, Capybara, Jasmine, Rails
+[Makers Academy Course Projects] (https://github.com/adrianeyre/main-course)  | Projects completed in the 12 week intense course |  | Ruby, Javascript, Rspec, Capybara, Jasmine, Rails
 [Authored Codewars] (https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored | [![codewars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/codewars.jpeg)](https://www.codewars.com/users/adrian.eyre/authored) | Ruby, Javascript and Python
 [Instagram](https://github.com/adrianeyre/instagram-challenge)               | A web clone of instagram. Allows users to post and comment on images. | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://adrianeyre-instagram.herokuapp.com/) | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL
 [Bowling] (https://github.com/adrianeyre/bowling-challenge) | A web front end bowling game that keeps track of your score in real-time | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://adrianeyre-bowling.herokuapp.com/) | Javascript, Jasmine, JQuery
-[Chitter] (https://github.com/adrianeyre/chitter-challenge) | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://adrianeyre-chitter.herokuapp.com/) | A web clone of Twitter that allows the user to post and comment to other posts | Ruby, Rspec, Capybara, Sinatra
-[Yelp] (https://github.com/adrianeyre/yelp) | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://adrianeyre-yelp.herokuapp.com/) | A web clone of yelp that allows the user to add and review restaurants | Ruby, Rspec, Rails, Heroku, HTML, CSS, Postgres, SQL
+[Chitter] (https://github.com/adrianeyre/chitter-challenge) | A web clone of Twitter that allows the user to post and comment to other posts | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://adrianeyre-chitter.herokuapp.com/) | Ruby, Rspec, Capybara, Sinatra
+[Yelp] (https://github.com/adrianeyre/yelp) | A web clone of yelp that allows the user to add and review restaurants | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://adrianeyre-yelp.herokuapp.com/) | Ruby, Rspec, Rails, Heroku, HTML, CSS, Postgres, SQL
 
 ## :mortar_board: <a name="education">Education</a>
 
