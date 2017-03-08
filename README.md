@@ -58,7 +58,7 @@ Project title                    | Description 						 | Technologies
 ## :school: <a name="experience">Experience</a>
 
 [All Saints Catholic Academy] (http://www.allsaints.notts.sch.uk) (July 2011 to December 2016)    
-Position held: IT Manager
+Position held: <b>IT Manager</b>
 
 I am a fully integrated member of staff within the school and enjoy the fast pace and challenges it brings on a daily basis. I am involved in a lot of voluntary aspects such as helping instruct the Duke of Edinburgh awards, assistant tutor, school radio, helping with the sound and light for school productions and a programming club. I am always looking for new trends and initiatives in IT so that I can bring them into the classroom. Budgets are tight for training so I keep up to date by researching and self-teaching to broaden my technical expertise. My main role consists of the below daily tasks.
 
@@ -79,15 +79,15 @@ I am a fully integrated member of staff within the school and enjoy the fast pac
 - Creation and maintenance of school IT polices
 
 [Nottinghamshire Police] (https://www.nottinghamshire.police.uk/) (February 2009 to Present)<br>
-Position held: Special Police Inspector
+Position held: <b>Special Police Inspector</b>
 
 I perform a wide variety of duties such as enforcement of laws and the prevention of crimes, controls traffic flow and enforces state and local traffic regulations, participates in and conducts a variety of criminal investigations, arrests, support and assistance to special crime prevention and law enforcement programs and a variety of technical and administrative tasks in support of law enforcement services and activities. 
 
 [The Carlton Academy] (http://www.theacademycarlton.org.uk/) (January 2002 to July 2011)   
-Position held: Network Manager
+Position held: <b>Network Manager</b>
 
 [PC Service Call - Dixons Group] (http://www.pcworld.co.uk) (October 2001 to January 2002)<br>
-Position held: Technical Support
+Position held: <b>Technical Support</b>
 
 ## :snowboarder: <a name="interests">Interests</a>
 
