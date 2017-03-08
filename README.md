@@ -38,10 +38,12 @@ Project title | Description | Demo Link	| Technologies
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC, DDD, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine
+- Ruby, Rails, Python, Javascript, Node.js
+- Rspec, Capybara, Jasmine
+- RESTful API with JSON objects
+- Postgres SQL, CRUD
 
 #### University of Derby (October 1998 to June 2001)
 
