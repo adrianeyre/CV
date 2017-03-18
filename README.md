@@ -25,13 +25,13 @@ I have a proven record of problem solving through my 13 years as a Systems Admin
 ## :computer: <a name="projects">Projects</a>
 Project title | Description | Demo Link	| Technologies		
 --- | --- | --- | ---
-[Makers Academy Course Projects] (https://github.com/adrianeyre/main-course)  | Projects completed in the 12 week intense course | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/main-course) | Ruby, Javascript, Rspec, Capybara, Jasmine, Rails
-[Authored Codewars] (https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored | [![codewars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/codewars.png)](https://www.codewars.com/users/adrian.eyre/authored) | Ruby, Javascript and Python
+[Makers Academy Course Projects](https://github.com/adrianeyre/main-course)  | Projects completed in the 12 week intense course | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/main-course) | Ruby, Javascript, Rspec, Capybara, Jasmine, Rails
+[Authored Codewars](https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored | [![codewars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/codewars.png)](https://www.codewars.com/users/adrian.eyre/authored) | Ruby, Javascript and Python
 [Instagram](https://github.com/adrianeyre/instagram-challenge) | A web clone of instagram. Allows users to post and comment on images. | [![heroku-48](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-instagram.herokuapp.com/) | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, Postgre, SQL, Facebook
-[Bowling] (https://github.com/adrianeyre/bowling-challenge) | A web front end bowling game that keeps track of your score in real-time | [![heroku-48](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-bowling.herokuapp.com/) | Javascript, Jasmine, JQuery
-[Atomic Wars] (https://github.com/adrianeyre/Atomic-Wars) | An Atom package to incorporate Codewars Katas into Atom | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/atom.png)](https://github.com/adrianeyre/Atomic-Wars) |  Javascript, CoffeeScript, Babel, Jasmine, Atom
-[Chitter] (https://github.com/adrianeyre/chitter-challenge) | A web clone of Twitter that allows the user to post and comment to other posts | [![heroku-48](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-chitter.herokuapp.com/) | Ruby, Rspec, Capybara, Sinatra
-[Yelp] (https://github.com/adrianeyre/yelp) | A web clone of Yelp that allows the user to add and review restaurants | [![heroku-48](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-yelp.herokuapp.com/) | Ruby, Rspec, Rails, Heroku, HTML, CSS, Postgres, SQL
+[Bowling](https://github.com/adrianeyre/bowling-challenge) | A web front end bowling game that keeps track of your score in real-time | [![heroku-48](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-bowling.herokuapp.com/) | Javascript, Jasmine, JQuery
+[Atomic Wars](https://github.com/adrianeyre/Atomic-Wars) | An Atom package to incorporate Codewars Katas into Atom | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/atom.png)](https://github.com/adrianeyre/Atomic-Wars) |  Javascript, CoffeeScript, Babel, Jasmine, Atom
+[Chitter](https://github.com/adrianeyre/chitter-challenge) | A web clone of Twitter that allows the user to post and comment to other posts | [![heroku-48](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-chitter.herokuapp.com/) | Ruby, Rspec, Capybara, Sinatra
+[Yelp](https://github.com/adrianeyre/yelp) | A web clone of Yelp that allows the user to add and review restaurants | [![heroku-48](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-yelp.herokuapp.com/) | Ruby, Rspec, Rails, Heroku, HTML, CSS, Postgres, SQL
 
 ## :mortar_board: <a name="education">Education</a>
 
@@ -64,7 +64,7 @@ Project title | Description | Demo Link	| Technologies
 
 ## :school: <a name="experience">Experience</a>
 
-[All Saints Catholic Academy] (http://www.allsaints.notts.sch.uk) (July 2011 to December 2016)    
+[All Saints Catholic Academy](http://www.allsaints.notts.sch.uk) (July 2011 to December 2016)    
 Position held: <b>IT Manager</b>
 
 I am a fully integrated member of staff within the school and enjoy the fast pace and challenges it brings on a daily basis. I am involved in a lot of voluntary aspects such as helping instruct the Duke of Edinburgh awards, assistant tutor, school radio, helping with the sound and light for school productions and a programming club. I am always looking for new trends and initiatives in IT so that I can bring them into the classroom. Budgets are tight for training so I keep up to date by researching and self-teaching to broaden my technical expertise. My main role consists of the below daily tasks.
