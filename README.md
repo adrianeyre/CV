@@ -23,6 +23,7 @@ Working with a wide range of people in my previous roles, including teaching chi
 I have a proven record of problem solving through my 13 years as a Systems Administrator. Systems were vital for the staff and students to perform to their best which meant that the system needed to be reliable and robust. Maintenance is key in reducing problems but an ability to provide a rapid response to any unforeseen events means that I've learnt to think quickly and calmly, finding the correct solution despite often stressful circumstances.
 
 ## :computer: <a name="projects">Projects</a>
+A list of all my projects can be found [here](https://github.com/adrianeyre/projects)
 Project title | Description | Demo Link	| Technologies		
 --- | --- | --- | ---
 [Makers Academy Course Projects](https://github.com/adrianeyre/main-course)  | Projects completed in the 12 week intense course | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/main-course) | Ruby, Javascript, Rspec, Capybara, Jasmine, Rails
