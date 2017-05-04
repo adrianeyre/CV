@@ -41,7 +41,7 @@ Project title | Description | Demo Link	| Technologies
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD, MVC
+- OOP, TDD, SOLID, MVC
 - AWS and Facebook integration with omniauth
 - Software Craftsmanship
 - Ruby, Rails, Python, Javascript, Node.js
@@ -71,11 +71,12 @@ Position held: <b>IT Manager</b>
 
 I am a fully integrated member of staff within the school and enjoy the fast pace and challenges it brings on a daily basis. I am involved in a lot of voluntary aspects such as helping instruct the Duke of Edinburgh awards, assistant tutor, school radio, helping with the sound and light for school productions and a programming club. I am always looking for new trends and initiatives in IT so that I can bring them into the classroom. Budgets are tight for training so I keep up to date by researching and self-teaching to broaden my technical expertise. My main role consists of the below daily tasks.
 
+- Developing Web and Windows based applications in ASP VB Script and VB6.
 - Managing the whole school network infrastructure.
 - Managing a small team and department budget.
 - Microsoft Server 2003, 2008 & 2012r2 Domain
 - Microsoft Exchange 2007, 2010 & 2013 email system
-- Microsoft SQL 2013 Server
+- Microsoft SQL 2000, 2008, 2012 Server
 - ASP, VB Script, HTML, IIS incorporating databases
 - Oracle SQL
 - Unitrends backup and disaster recovery system
