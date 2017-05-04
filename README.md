@@ -34,6 +34,7 @@ Project title | Description | Demo Link	| Technologies
 [Atomic Wars](https://github.com/adrianeyre/Atomic-Wars) | An Atom package to incorporate Codewars Katas into Atom | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/atom.png)](https://github.com/adrianeyre/Atomic-Wars) |  Javascript, CoffeeScript, Babel, Jasmine, Atom
 [Chitter](https://github.com/adrianeyre/chitter-challenge) | A web clone of Twitter that allows the user to post and comment to other posts | [![heroku-48](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-chitter.herokuapp.com/) | Ruby, Rspec, Capybara, Sinatra
 [Yelp](https://github.com/adrianeyre/yelp) | A web clone of Yelp that allows the user to add and review restaurants | [![heroku-48](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-yelp.herokuapp.com/) | Ruby, Rspec, Rails, Heroku, HTML, CSS, Postgres, SQL
+[Pacman](https://github.com/adrianeyre/pacman) | A Windows based application of the classic game of Pacman | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/pacman) | C#, NUnit
 
 ## :mortar_board: <a name="education">Education</a>
 
