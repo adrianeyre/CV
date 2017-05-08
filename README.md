@@ -4,9 +4,13 @@
 
 From an early age, I've always had a passion for software development. My motivation to progress myself and overcome new challenges is drawn from the excitement of creating something. I've enjoyed working in the computer sector for over 13 years as a systems administrator, but I'm now looking for new experiences that will push me further.
 
-Having graduated Makers Academy, an intensive 16-week coding bootcamp focused primarily on Ruby and Javascript, I am excited by the prospect of joining a company where I can make a real difference as a junior developer.
+My GitHub account has multiple working examples of Ruby, C#, Python and VB Script projects that are all open source. Some example of these projects are Twitter, Instagram, Yelp, Pacman and the bowling challenge. These examples all show good software craftsmanship such as the SOLID principles, Object Orientated Design, XP values, clean DRY code and RESTful API’s.
 
-During my time at Makers Academy I learned how to think like a programmer, write clean test-driven code, and the ability to learn new languages and technologies efficiently in a short period of time. As such, I am extremely comfortable when it comes to test-driven development, agile methodologies and XP values.
+I am competent in using Test Driven Design frameworks such as Rspec, Capybara and Jasmine and have even written my own test framework using Javascript. I can work in an agile environment and take part in daily stand ups, weekly retrospectives and regular code reviews in order to help others and to better myself.
+
+I am also competent in frameworks such as Sinatra, Rails, node server and am highly efficient in MVC architecture. I have over 10 years’ commercial experience of MS SQL Server, Oracle databases using CRUD commands, MS Server, MS Exchange, MS MDT, Windows support and I am an Oracle Certified Associate.
+
+I have worked effectively as part of a team, paired programming or individually using version control through GitHub. I believe I am a well-rounded team member that will fit into your organisation with minimal disruption. I have commercial experience in the whole software development life cycle producing software such as a web based version of a room booking system, Virtual Learning Environment and a First Aid logging system. 
 
 ## :book: <a name="skills">Skills</a>
 
