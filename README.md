@@ -70,6 +70,30 @@ Project title | Description | Demo Link	| Technologies
 - RYA Powerboat Driver
 
 ## :school: <a name="experience">Experience</a>
+[Solutions for Retail Brands (S4RB)](http://www.s4rb.com) (June 2017 to Present)
+Position held: <Software Developer>
+  
+- Frameworks – AngularJS, Node Express and Laravel
+- Languages – Javascript and PHP
+- HTML5
+- MVC architecture
+- SQL Server
+- Visual Studio Code and Atom
+- Modern CSS and dynamic stylesheet using LESS
+- RESTful APIs
+- Cloud-based services using Azure and AWS
+- Agile methodologies using SCRUM
+- Project building using Gulp
+- GIT tools and branching methods using GIT Flow in Github
+- NPM Package management
+- Unit and e2e testing using Mocha and Chai
+- Oracle RightNow
+- Test Driven Development
+- Behavior-Driven Development
+- Dependency Injection
+- Continuous Integration
+- SOLID principles
+- Clean DRY code
 
 [All Saints Catholic Academy](http://www.allsaints.notts.sch.uk) (July 2011 to December 2016)    
 Position held: <b>IT Manager</b>
