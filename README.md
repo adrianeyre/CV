@@ -72,21 +72,23 @@ Project title | Description | Demo Link	| Technologies
 ## :school: <a name="experience">Experience</a>
 [Solutions for Retail Brands (S4RB)](http://www.s4rb.com) (June 2017 to Present)
 Position held: <Software Developer>
-  
+
 - Frameworks – AngularJS, Node Express and Laravel
 - Languages – Javascript and PHP
 - HTML5
 - MVC architecture
+- AWS (S3, EC2, Lamnda, DynamoDB)
+- Azure (AD, Functions, Virtual Machines)
 - SQL Server
 - Visual Studio Code and Atom
 - Modern CSS and dynamic stylesheet using LESS
 - RESTful APIs
-- Cloud-based services using Azure and AWS
 - Agile methodologies using SCRUM
-- Project building using Gulp
+- Project building using Gulp and Webpack
 - GIT tools and branching methods using GIT Flow in Github
 - NPM Package management
 - Unit and e2e testing using Mocha and Chai
+- Front end testing using Cypress
 - Oracle RightNow
 - Test Driven Development
 - Behavior-Driven Development
