@@ -72,7 +72,9 @@ Project title | Description | Demo Link	| Technologies
 ## :school: <a name="experience">Experience</a>
 [Solutions for Retail Brands (S4RB)](http://www.s4rb.com) (June 2017 to Present)
 Position held: <Software Developer>
-  
+
+<a href="https://github.com/AdrianEyreS4RB"><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png" align="left" height="25" width="25" ></a>[Adrian Eyre S4RB Github](https://github.com/AdrianEyreS4RB)
+
 Full stack software development engaging worldwide supermarkets such as Walmart, Asda, Waitrose, Woolworths (Australia), Walgreens Boots Alliance, Co-Op, Musgrave, Sams Club, Albertsons (Safeway) with their suppliers.
 
 - Frameworks – AngularJS, Node Express and Laravel
