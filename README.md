@@ -76,7 +76,7 @@ Position held: <Software Developer>
 Full stack software development engaging worldwide supermarkets such as Walmart, Asda, Waitrose, Woolworths (Australia), Walgreens Boots Alliance, Co-Op, Musgrave, Sams Club, Albertsons (Safeway) with their suppliers.
 
 - Frameworks – AngularJS, Node Express and Laravel
-- Languages – Javascript and PHP
+- Languages – Javascript, TypeScript and PHP
 - HTML5
 - MVC architecture
 - AWS (S3, EC2, Lamnda, DynamoDB)
