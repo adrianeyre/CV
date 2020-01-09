@@ -60,7 +60,6 @@ Project title | Description | Demo Link	| Technologies
 #### University of Derby (October 1998 to June 2001)
 
 - HND Computer Studies
-- Passed all modules apart from common skills
 
 #### Other Qualifications
 
